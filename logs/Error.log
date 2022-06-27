@@ -1,0 +1,4 @@
+2022-06-03 15:11:29,685[yyyy-MMM-dd HH:MM:ss a][restartedMain]INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor--Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-03 15:11:30,565[yyyy-MMM-dd HH:MM:ss a][restartedMain]INFO o.s.b.d.a.OptionalLiveReloadServer--LiveReload server is running on port 35729
+2022-06-03 21:56:28,389[yyyy-MMM-dd HH:MM:ss a][restartedMain]INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor--Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-03 21:56:29,286[yyyy-MMM-dd HH:MM:ss a][restartedMain]INFO o.s.b.d.a.OptionalLiveReloadServer--LiveReload server is running on port 35729
